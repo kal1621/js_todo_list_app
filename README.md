@@ -13,7 +13,7 @@ A simple, responsive todo list application built with vanilla JavaScript that al
 - **Persistent Storage**: Tasks are saved in the browser's localStorage
 - **Responsive Design**: Works well on both desktop and mobile devices
 
-## File Structure
+
 
 
 
